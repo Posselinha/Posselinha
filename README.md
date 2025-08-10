@@ -18,6 +18,8 @@
     <h3>Backend</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
   </div>
   <div>
     <h3>Frontend</h3>
@@ -25,6 +27,7 @@
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white">
   </div>
   <div>
     <h3>Banco de Dados</h3>
